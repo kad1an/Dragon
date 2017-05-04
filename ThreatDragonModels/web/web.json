@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "web",
+    "owner": "me",
+    "description": "looking at Rad thing"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "webapp",
+        "thumbnail": "../public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "you"
+  }
+}
